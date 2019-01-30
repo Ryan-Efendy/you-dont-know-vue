@@ -1,29 +1,26 @@
-# video-browser
+# YouTube-Clone-Vue
 
-## Project setup
-```
-yarn install
-```
+Youtube clone created using Vue
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Installation
 
-### Compiles and minifies for production
-```
-yarn run build
+Alternatively, you can use `npm` instead of `yarn`
+
+
+```sh
+$ yarn
+$ yarn serve # visit localhost:8000 🍰✨
 ```
 
-### Run your tests
-```
-yarn run test
+## Usage
+
+
 ```
 
-### Lints and fixes files
-```
-yarn run lint
-```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
